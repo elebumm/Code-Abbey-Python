@@ -1,3 +1,7 @@
+#This asks the user to input 2 numbers then adds them. 
+#I imported time for the extra suspense :)
+
+
 import time
 
 print('Welcome to Exercise #1!')

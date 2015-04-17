@@ -1,3 +1,7 @@
+#You say how many times you want to iterate through a loop. The amount of times
+#you go through will have 2 sets of numbers that will add together than
+#store them in a list. I chose a list because its an easier statement.
+
 print('Please enter the amount of equations you would like solved')
 amount_of_numbers = raw_input('> ')
 

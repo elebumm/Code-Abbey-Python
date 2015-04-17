@@ -1,3 +1,6 @@
+#You enter how many numbers you want to be added and the number you enter will
+#go through a loop to and add it to a variable. Simple but kinda fun.
+
 print('How many numbers do you want to add?')
 amount_of_numbers = raw_input('> ')
 
